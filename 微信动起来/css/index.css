@@ -1,0 +1,134 @@
+			
+			.light-box {
+				opacity: .9;
+				background:#E0E0E0;
+				position: fixed;
+				left: 0;top: 0;
+			}
+			
+			.login{
+				width: 200px;
+				height: 150px;
+				box-shadow: 0px 0px 10px gray;
+				background-color : white;				
+				position: relative;
+				/*margin: 0 auto;*/
+				top: 20%;
+				left: 55px;
+				
+			}
+			
+			.login2{
+				width: 260px;
+				height: 200px;
+				box-shadow: 0px 0px 10px gray;
+				background-color : white;				
+				position: relative;
+				/*margin: 0 auto;*/
+				top: 20%;
+				left: 25px;
+				background-image: url(../img/L320U4284A2A_1000x500.jpg);
+				background-position: center;
+				background-size: cover;
+				background-repeat: no-repeat;
+			}
+			
+			#chaolianjie{
+				text-decoration: none;
+				color: #000000;
+				/*target:_blank;*/
+			}
+			
+			
+			.firstKuang{
+				width:200px ;
+				height: 50px;
+				background-color:#A9A9A9;
+				border: 1px black;
+				/*text-align: center;*/
+				line-height: 50px;
+			}
+			.sKuang{
+				width:200px ;
+				height: 50px;
+				background-color:#A9A9A9;
+				border: 1px black;
+				/*text-align: center;*/
+				line-height: 50px;
+			}
+			.sanKuang{
+				width:200px ;
+				height: 50px;
+				background-color: #424242;
+				border: 1px black;
+				display: flex;
+			}
+			
+			
+			/**/
+			.yuyintu{
+				width:200px ;
+				height: 100px;
+				/*background-color: #424242;*/
+				background-image: url(../img/u=1613519450,2665409826&fm=27&gp=0.jpg);
+				background-size:cover;
+				background: auto;
+				background-repeat: no-repeat;
+				border: 1px black;
+			}
+			
+			
+			
+			
+			
+			.denglu{
+				width: 100px;
+				height: 50px;
+				background-color: #EEEEEE;
+				text-align: center;
+				line-height: 50px;
+				color: #000000;
+				border: 1px black;
+				
+			}
+			.qvxiao{
+				width: 100px;
+				height: 50px;
+				background-color: #EEEEEE;
+				text-align: center;
+				line-height: 50px;
+				color: #000000;
+				border: 1px black;
+				
+			}
+			.shurukuang{
+				position: relative;
+				right: -20px;
+				width: 130px;
+			}
+.denglukuang{
+	width: 200px;
+	height: 300px;
+	/*background-color:#E0E0E0;*/
+	position: fixed;
+	top: 150px;
+	left: 55px;
+	text-align: center;
+	
+}
+#diyige{
+	width: 200px;
+	height: 200px;
+	
+}
+#disange{
+	width: 200px;
+	height: 100px;
+	
+}
+#bo{
+	background-image: url(../img/微信图片_20170913105613.jpg);
+	/*background-position: center;*/
+	background-size:cover;
+	background-repeat: repeat;
+}

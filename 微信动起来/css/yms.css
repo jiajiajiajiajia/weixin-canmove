@@ -1,0 +1,109 @@
+.ymsh{
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 2px #F5F5F5;
+	background-color: white;
+	height: 40px;
+	display: flex;
+	position:relative;
+	margin: 20px 0px 0px 0px;
+	                /*box-shadow: 0px 0px 1px red;*/
+}
+
+.ymsh3{
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 2px #F5F5F5;
+	background-color: white;
+	height: 40px;
+	display: flex;
+	position:relative;
+	margin:0px 0px 20px 0px;
+	                /*box-shadow: 0px 0px 1px red;*/
+}
+.ymsh2{
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 2px #F5F5F5;
+	background-color: white;
+	height: 40px;
+	display: flex;
+	position:relative;
+	margin: 20px 0px 0px 0px;
+	border-bottom: 2px #616161;
+	                /*box-shadow: 0px 0px 1px red;*/
+}
+
+a:link{
+	text-decoration: none;
+	color: #000000;
+}
+#dayemian3{
+	position: fixed;
+	top: 70px;
+	height:80%;
+	width: 100%;
+	flex: 1;
+	overflow-y: scroll;
+	background-color: #F5F5F5;
+	                /*box-shadow: 0px 0px 1px red;*/
+}
+.ymstb1{
+	width: 40px;
+	height: 40px;
+	/*box-shadow: 0px 0px 1px #F5F5F5;*/
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0px 0px 0px 10px;
+	                /*box-shadow: 0px 0px 1px red;*/
+}
+.ymstb11{
+	background-image: url(../img/icon/dicovery/朋友圈.svg);
+}
+.ymstb12{
+	background-image: url(../img/icon/dicovery/扫一扫.svg);
+}
+.ymstb13{
+	background-image: url(../img/icon/dicovery/摇一摇.svg);
+}
+.ymstb14{
+	background-image: url(../img/icon/dicovery/看一看.svg);
+}
+.ymstb15{
+	background-image: url(../img/icon/dicovery/附近的人.svg);
+}
+.ymstb16{
+	background-image: url(../img/icon/dicovery/漂流瓶.svg);
+}
+.ymstb17{
+	background-image: url(../img/icon/dicovery/购物.svg);
+}
+.ymstb18{
+	background-image: url(../img/icon/dicovery/游戏.svg);
+}
+.ymstb19{
+	background-image: url(../img/icon/dicovery/小程序.svg);
+}
+.ymstb2{
+	width:80px;
+	height: 40px;
+	                /*box-shadow: 0px 0px 1px red;*/
+	text-align: left;
+	line-height: 40px;
+	text-indent: 10px;
+	display: flex;
+}
+.ymstb3{
+	width:20px;
+	height: 40px;
+	                /*box-shadow: 0px 0px 1px red;*/
+	position: absolute;
+	right: 10px;
+	text-align: left;
+	line-height: 40px;
+	color: #9E9E9E;
+}

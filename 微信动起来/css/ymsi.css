@@ -1,0 +1,80 @@
+#dayemiansi{
+	position: fixed;
+	top: 70px;
+	height:80%;
+	width: 100%;
+	flex: 1;
+	overflow-y: scroll;
+	background-color: #F5F5F5;
+}
+.ymsi{
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 2px #F5F5F5;
+	background-color: white;
+	height: 80px;
+	display: flex;
+	position:relative;
+	margin: 20px 0px 2px 0px;
+}
+.ymsh4{
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 0px 2px #F5F5F5;
+	background-color: white;
+	height: 40px;
+	display: flex;
+	position:relative;
+}
+.ymstb41{
+	background-image: url(../img/icon/control/钱包.jpg);
+}
+.ymstb42{
+	background-image: url(../img/icon/control/收藏.jpg);
+}
+.ymstb43{
+	background-image: url(../img/icon/control/卡包.jpg);
+}
+.ymstb44{
+	background-image: url(../img/icon/control/表情.jpg);
+}
+.ymstb45{
+	background-image: url(../img/icon/control/相册.jpg);
+}
+.ymstb46{
+	background-image: url(../img/icon/control/设置.jpg);
+}
+
+.touxiang4 {
+	width: 80px;
+	height: 80px;
+	margin: 2px;
+	/*box-shadow: 0px 0px 1px  darkcyan;*/
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url(../img/icon/control/头像.jpg);
+}
+#diyihang4 {
+	color: #4E342E;
+	text-shadow: 0px 0px 1px #000000;
+	font-size: 18px;
+	text-align: left;
+	line-height: 50px;
+}
+.liaotnr4 {
+	width: 240px;
+	height: 80px;
+}
+.liaotsj4 {
+	width: 20px;
+	height: 870px;
+	position: absolute;
+	text-align: right;
+	line-height: 80px;
+	color: #9E9E9E;
+	right: 10px;
+	text-align: left;
+}

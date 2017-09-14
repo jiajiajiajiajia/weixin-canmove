@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<meta charset="utf-8" />
+		<title>微信</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	</head>	</head>
+	<body id="bo">
+		<div class="denglukuang">
+			<div id="diyige"></div>
+			<div id="disange"></div>
+			<div id="dierge">
+				<input value="登录" id="login" type="button"/>
+				<input value="取消" type="button"/>
+			</div>
+			
+			
+		</div>
+		
+		
+	</body>
+	
+</html>
+
+<script type="text/javascript" src="js/utils.js" ></script>
+<script type="text/javascript" src="js/login.js" ></script>
+<script type="text/javascript" src="js/jquery.js" ></script>
+<script>
+
+
+	function createLogin() {
+	$(function (){
+		var self = $("<div class='login'><div class='firstKuang'>账号<input  class='shurukuang'/></div><div class='sKuang'>密码<input  class='shurukuang' /></div><div class='sanKuang'><div class='denglu'><a id='chaolianjie' href='微信页面一.html'>登录</a></div><div class='qvxiao'>取消</div></div></div>")
+		self.get(0).lastChild.firstChild.onclick = function() {
+			window.open("微信页面一.html")
+			event.stopPropagation();
+		}
+		$(lightbox).append(self)
+
+});
+}
+
+</script>
